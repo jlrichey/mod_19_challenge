@@ -63,24 +63,9 @@ Below are screenshots for the web application using Streamlit technology and the
 ### Ganache transaction tab
 <img src="Images/ganache_transactions.png" alt="drawing" width="700"/>
 
-
-
-
-
-### Web application showing the chain validation
-<small>(see `True` in bottom center of screenshot)</small>
-<img src="images/streamlit2_validated.png" alt="drawing" width="700"/>
-
-### Chain validation zoomed in
-<img src="images/streamlit3_validated_closeup.png" alt="drawing" width="600"/>
-
-### Close-up of expanded block inspector pulldown
-<img src="images/streamlit4_blockinspector_pulldown.png" alt="drawing" width="500"/>
-
 ## Sources
 The following sources were consulted in the completion of this project. 
 
-* [pandas.Pydata.org API Reference](https://pandas.pydata.org/docs/reference/index.html)
 * [Streamlit Documentation](https://docs.streamlit.io/)
 * UCB FinTech Bootcamp instructor-led coding exercises
 
