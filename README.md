@@ -51,7 +51,7 @@ Below are screenshots for the web application using Streamlit technology and the
 ### Ganache before transaction
 <img src="Images/ganache_before.png" alt="drawing" width="700"/>
 
-### Web application sidebar after transaction (validated transactio hash)
+### Web application sidebar after transaction (validated transaction hash)
 <img src="Images/sidebar_complete1.png" alt="drawing" width="600"/>
 
 ### Ganache after transaction
