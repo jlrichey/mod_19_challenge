@@ -49,22 +49,19 @@ Below are screenshots for the web application using Streamlit technology and the
 <img src="Images/streamlit_app_before.png" alt="drawing" width="700"/>
 
 ### Ganache before transaction
-<img src="Images/ganache_before.png" alt="drawing" width="500"/>
+<img src="Images/ganache_before.png" alt="drawing" width="700"/>
 
-### Web application sidebar after transaction
+### Web application sidebar after transaction (validated transactio hash)
 <img src="Images/sidebar_complete1.png" alt="drawing" width="700"/>
 
-### Validated transaction hash from web application
-<img src="Images/validated_transaction_hash.png" alt="drawing" width="400"/>
-
 ### Ganache after transaction
-<img src="Images/ganache_after.png" alt="drawing" width="500"/>
+<img src="Images/ganache_after.png" alt="drawing" width="700"/>
 
 ### Ganache after transaction (zoomed)
-<img src="Images/ganache_after_zoomed.png" alt="drawing" width="500"/>
+<img src="Images/ganache_after_zoomed.png" alt="drawing" width="700"/>
 
 ### Ganache transaction tab
-<img src="Images/ganache_transactions.png" alt="drawing" width="500"/>
+<img src="Images/ganache_transactions.png" alt="drawing" width="700"/>
 
 
 
