@@ -1,5 +1,5 @@
 # Module 19 Challenge - Cryptocurrency Wallet
-<img src="images/19-4-challenge-image.png" alt="drawing" width="600"/>
+<img src="Images/19-4-challenge-image.png" alt="drawing" width="600"/>
 
 ## Overview
 For this challenge I assume the role of a blockchain lead developer working at the disruptive startup, KryptoJobs2Go. The company connects consumers with Fintech professionals that they can hire. I have been tasked with the completion and testing of code that enables the customers to send cryptocurrecy payments to fintech professionals utilizing Etherium blockchain technology. 
