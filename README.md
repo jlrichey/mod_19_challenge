@@ -43,10 +43,29 @@ Once the files have been relocated to your local machine, the application can be
 streamlit run krypto_jobs.py
 ```
 ## Application Results
-Below are screenshots for the web application using Streamlit technology.
+Below are screenshots for the web application using Streamlit technology and the transaction validation in Ganache.
 
-### Web application showing blockchain with multiple blocks
-<img src="images/streamlit1.png" alt="drawing" width="700"/>
+### Web application before transaction
+<img src="Images/streamlit_app_before.png" alt="drawing" width="700"/>
+
+### Ganache before transaction
+<img src="Images/ganache_before.png" alt="drawing" width="500"/>
+
+### Validated transaction hash from web application
+<img src="Images/validated_transaction_hash.png" alt="drawing" width="400"/>
+
+### Ganache after transaction
+<img src="Images/ganache_after.png" alt="drawing" width="500"/>
+
+### Ganache after transaction (zoomed)
+<img src="Images/ganache_after_zoomed.png" alt="drawing" width="500"/>
+
+### Ganache transaction tab
+<img src="Images/ganache_transactions.png" alt="drawing" width="500"/>
+
+
+
+
 
 ### Web application showing the chain validation
 <small>(see `True` in bottom center of screenshot)</small>
