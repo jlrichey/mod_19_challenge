@@ -52,7 +52,7 @@ Below are screenshots for the web application using Streamlit technology and the
 <img src="Images/ganache_before.png" alt="drawing" width="500"/>
 
 ### Web application sidebar after transaction
-<img src="Images/sidebar_complete.png" alt="drawing" width="700"/>
+<img src="Images/sidebar_complete1.png" alt="drawing" width="700"/>
 
 ### Validated transaction hash from web application
 <img src="Images/validated_transaction_hash.png" alt="drawing" width="400"/>
